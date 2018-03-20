@@ -1,0 +1,30 @@
+{
+	"name": "piecewise-polynomial",
+	"version": "0.0.1",
+	"description": "Library for evaluting piecewise polynomials",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/brenboh/piecewise-polynomial.git"
+	},
+	"keywords": [
+		"piecewise",
+		"polynomial",
+		"math",
+		"evaluate"
+	],
+	"author": "Brendan Bohay",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/brenboh/piecewise-polynomial/issues"
+	},
+	"homepage": "https://github.com/brenboh/piecewise-polynomial#readme",
+	"devDependencies": {
+		"@types/node": "^9.4.7",
+		"typescript": "^2.7.2"
+	}
+}
